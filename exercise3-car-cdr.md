@@ -9,4 +9,4 @@ Cada d equivale a un avance en la lista porque vamos quitando cabezas de lista
 (caddr '(a b c d e))
 ```
 
-![Resto de ejercicios en png](Prolog\prologAgDic25\images\exercise3-car-cdr-1.png)
+![Resto de ejercicios en png](images\exercise3-car-cdr-1.png)
