@@ -10,7 +10,7 @@ El propósito de este espacio es llevar un registro organizado del aprendizaje y
 ## 📂 Contenido
 - **ExerciseN** → Ejercicios enfocados en aplicar conceptos básicos que se nos encargan.  
 - **/Project** → Trabajo final o integrador que pone en práctica los temas del curso.  
-
+- **number-name** → Teoría.  
 ---
 
 ## 🛠️ Tecnologías y Herramientas
